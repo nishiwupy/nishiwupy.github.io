@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>破词的博客</title>
+  
+  <subtitle>你好便是晴天，不要忧伤</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-12-04T13:51:59.705Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>破词</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试</title>
+    <link href="http://example.com/2021/12/04/%E6%B5%8B%E8%AF%95/"/>
+    <id>http://example.com/2021/12/04/%E6%B5%8B%E8%AF%95/</id>
+    <published>2021-12-04T13:48:18.000Z</published>
+    <updated>2021-12-04T13:51:59.705Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="h1-标题"><a href="#h1-标题" class="headerlink" title="h1 标题"></a>h1 标题</h1><h2 id="h2-标题"><a href="#h2-标题" class="headerlink" title="h2 标题"></a>h2 标题</h2><h3 id="h3-标题"><a href="#h3-标题" class="headerlink" title="h3 标题"></a>h3 标题</h3><h4 id="h4-标题"><a href="#h4-标题" class="headerlink" title="h4 标题"></a>h4 标题</h4><h5 id="h5-标题"><a href="#h5-标题" class="headerlink" title="h5 标题"></a>h5 标题</h5><h6 id="h6-标题"><a href="#h6-标题" class="headerlink" title="h6 标题"></a>h6 标题</h6><h2 id="水平线"><a href="#水平线" class="headerlink" title="水平线"></a>水平线</h2><hr><hr><hr><h2 id="文本样式"><a href="#文本样式" class="headerlink" title="文本样式"></a>文本样式</h2><p><strong>This is bold text</strong></p><p><strong>This is bold text</strong></p><p><em>This is italic text</em></p><p><em>This is italic text</em></p><p><del>Strikethrough</del></p><h2 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h2><p>无序</p><ul><li>Create a list by starting a line with <code>+</code>, <code>-</code>, or <code>*</code></li><li>Sub-lists are made by indenting 2 spaces:<ul><li>Marker character change forces new list start:<ul><li>Ac tristique libero volutpat at</li></ul><ul><li>Facilisis in pretium nisl aliquet</li></ul><ul><li>Nulla volutpat aliquam velit</li></ul></li></ul></li><li>Very easy!</li></ul><p>有序</p><ol><li>Lorem ipsum dolor sit amet</li><li>Consectetur adipiscing elit</li><li>Integer molestie lorem at massa</li></ol><ol><li>You can use sequential numbers…</li><li>…or keep all the numbers as <code>1.</code></li></ol><p>Start numbering with offset:</p><ol start="57"><li>foo</li><li>bar</li></ol><h2 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h2><p>Inline <code>code</code></p><p>Indented code</p><pre><code>// Some commentsline 1 of codeline 2 of codeline 3 of code</code></pre><p>Block code “fences”</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Sample text here...</span><br></pre></td></tr></table></figure><p>Syntax highlighting</p><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">var</span> foo = <span class="function"><span class="keyword">function</span> (<span class="params">bar</span>) </span>&#123;</span><br><span class="line">  <span class="keyword">return</span> bar++;</span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="built_in">console</span>.log(foo(<span class="number">5</span>));</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;h1-标题&quot;&gt;&lt;a href=&quot;#h1-标题&quot; class=&quot;headerlink&quot; title=&quot;h1 标题&quot;&gt;&lt;/a&gt;h1 标题&lt;/h1&gt;&lt;h2 id=&quot;h2-标题&quot;&gt;&lt;a href=&quot;#h2-标题&quot; class=&quot;headerlink&quot; title=&quot;h2 </summary>
+      
+    
+    
+    
+    <category term="Demo" scheme="http://example.com/categories/Demo/"/>
+    
+    
+    <category term="Tag0" scheme="http://example.com/tags/Tag0/"/>
+    
+    <category term="Tag1" scheme="http://example.com/tags/Tag1/"/>
+    
+    <category term="Tag2" scheme="http://example.com/tags/Tag2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我的第一篇文章</title>
+    <link href="http://example.com/2021/12/02/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E9%81%8D%E6%96%87%E7%AB%A0/"/>
+    <id>http://example.com/2021/12/02/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E9%81%8D%E6%96%87%E7%AB%A0/</id>
+    <published>2021-12-02T11:03:38.000Z</published>
+    <updated>2021-12-04T13:28:24.493Z</updated>
+    
+    <content type="html"><![CDATA[<p>大家下午好</p><hr><p>第一次写博客，也是第一次做这个博客，一开始是在B站搜索了一下，后面也是选择了hexo这个框架，这种看起来搭建起来方便，也有完整教程可以来学习，更主要看到自己喜欢的主题可以使用。<br>第一次搭建这个hexo框架的时候，总是会出现错误，因为一开始那个教学视频是使用mac电脑，window的很多步骤也有所不同，比如管理员权限什么的。还有一个错误是git没有安装，搭建hexo框架，需要node.js和git的支持，这很重要，以及安装淘宝的镜像。</p><hr>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;大家下午好&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;第一次写博客，也是第一次做这个博客，一开始是在B站搜索了一下，后面也是选择了hexo这个框架，这种看起来搭建起来方便，也有完整教程可以来学习，更主要看到自己喜欢的主题可以使用。&lt;br&gt;第一次搭建这个hexo框架的时候，总是会出现错误，因为</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2021/12/02/hello-world/"/>
+    <id>http://example.com/2021/12/02/hello-world/</id>
+    <published>2021-12-02T10:56:56.012Z</published>
+    <updated>2021-12-02T10:56:56.012Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
