@@ -181,6 +181,12 @@
                     字
                 </li>
                 
+                    <li id="/2021/12/04/%E6%B5%8B%E8%AF%95/" class="leancloud_visitors" data-flag-title="测试">
+                        <i class="fa fa-eye"></i>
+                        <span class="leancloud-visitors-count"> </span> 次阅读
+                    </li>
+                    
+                
             </ul>
         </header>
         <div class="kratos-post-content">
@@ -255,8 +261,6 @@ line 3 of code
         <footer class="kratos-entry-footer clearfix">
             
                 <div class="post-like-donate text-center clearfix" id="post-like-donate">
-                
-                    <a class="donate" href="javascript:;"><i class="fa fa-bitcoin"></i> 打赏</a>
                 
                 
                     <a class="share" href="javascript:;"><i class="fa fa-share-alt"></i> 分享</a>
@@ -362,6 +366,30 @@ S...`;
             
         </nav>
     
+    
+        <div id="v-comments" class="post-comments"></div>
+<script>
+    var load_comm = () => {
+        const init = () => {
+            new Valine({
+                el: '#v-comments',
+                appId: '5JaOfjd1voRkh9wKkLqtHBUo-gzGzoHsz',
+                appKey: 'Jk0r2AYk7vMxn5jM34fOp5Hd',
+                visitor: true,
+                enableQQ: false,
+                path: '/2021/12/04/%E6%B5%8B%E8%AF%95/'
+            });
+        }
+        if (typeof Valine == 'undefined') {
+            const src = 'https://cdn.jsdelivr.net/npm/valine@1.4.14/dist/Valine.min.js';
+            $.getScript(src, init);
+        } else {
+            init();
+        }
+    };
+</script>
+<noscript>Please enable JavaScript to view the <a target="_blank" rel="noopener" href="https://valine.js.org/">comments powered by Valine.</a></noscript>
+
     
 </article>
 
@@ -564,8 +592,6 @@ S...`;
 <script defer src="https://cdn.jsdelivr.net/npm/clipboard@2.0.6/dist/clipboard.min.js"></script>
 <script defer src="/js/kratosr.min.js"></script>
 <script defer src="/js/pjax.min.js"></script>
-
-    <script defer src="https://cdn.jsdelivr.net/npm/layui-src@2.5.5/dist/layui.all.js"></script>
 
 
     <script defer src="/js/kr-dark.min.js"></script>
