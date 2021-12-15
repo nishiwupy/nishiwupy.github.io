@@ -34,7 +34,7 @@
     <link href="http://example.com/2021/12/04/%E6%B5%8B%E8%AF%95/"/>
     <id>http://example.com/2021/12/04/%E6%B5%8B%E8%AF%95/</id>
     <published>2021-12-04T13:48:18.000Z</published>
-    <updated>2021-12-04T13:51:59.705Z</updated>
+    <updated>2021-12-15T03:27:57.736Z</updated>
     
     <content type="html"><![CDATA[<h1 id="h1-标题"><a href="#h1-标题" class="headerlink" title="h1 标题"></a>h1 标题</h1><h2 id="h2-标题"><a href="#h2-标题" class="headerlink" title="h2 标题"></a>h2 标题</h2><h3 id="h3-标题"><a href="#h3-标题" class="headerlink" title="h3 标题"></a>h3 标题</h3><h4 id="h4-标题"><a href="#h4-标题" class="headerlink" title="h4 标题"></a>h4 标题</h4><h5 id="h5-标题"><a href="#h5-标题" class="headerlink" title="h5 标题"></a>h5 标题</h5><h6 id="h6-标题"><a href="#h6-标题" class="headerlink" title="h6 标题"></a>h6 标题</h6><h2 id="水平线"><a href="#水平线" class="headerlink" title="水平线"></a>水平线</h2><hr><hr><hr><h2 id="文本样式"><a href="#文本样式" class="headerlink" title="文本样式"></a>文本样式</h2><p><strong>This is bold text</strong></p><p><strong>This is bold text</strong></p><p><em>This is italic text</em></p><p><em>This is italic text</em></p><p><del>Strikethrough</del></p><h2 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h2><p>无序</p><ul><li>Create a list by starting a line with <code>+</code>, <code>-</code>, or <code>*</code></li><li>Sub-lists are made by indenting 2 spaces:<ul><li>Marker character change forces new list start:<ul><li>Ac tristique libero volutpat at</li></ul><ul><li>Facilisis in pretium nisl aliquet</li></ul><ul><li>Nulla volutpat aliquam velit</li></ul></li></ul></li><li>Very easy!</li></ul><p>有序</p><ol><li>Lorem ipsum dolor sit amet</li><li>Consectetur adipiscing elit</li><li>Integer molestie lorem at massa</li></ol><ol><li>You can use sequential numbers…</li><li>…or keep all the numbers as <code>1.</code></li></ol><p>Start numbering with offset:</p><ol start="57"><li>foo</li><li>bar</li></ol><h2 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h2><p>Inline <code>code</code></p><p>Indented code</p><pre><code>// Some commentsline 1 of codeline 2 of codeline 3 of code</code></pre><p>Block code “fences”</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Sample text here...</span><br></pre></td></tr></table></figure><p>Syntax highlighting</p><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">var</span> foo = <span class="function"><span class="keyword">function</span> (<span class="params">bar</span>) </span>&#123;</span><br><span class="line">  <span class="keyword">return</span> bar++;</span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="built_in">console</span>.log(foo(<span class="number">5</span>));</span><br></pre></td></tr></table></figure>]]></content>
     
@@ -46,36 +46,37 @@
     
     
     
-    <category term="Demo" scheme="http://example.com/categories/Demo/"/>
+    <category term="测试" scheme="http://example.com/categories/%E6%B5%8B%E8%AF%95/"/>
     
     
-    <category term="Tag0" scheme="http://example.com/tags/Tag0/"/>
-    
-    <category term="Tag1" scheme="http://example.com/tags/Tag1/"/>
-    
-    <category term="Tag2" scheme="http://example.com/tags/Tag2/"/>
+    <category term="测试" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
   <entry>
-    <title>我的第一篇文章</title>
+    <title>站点搭建记录</title>
     <link href="http://example.com/2021/12/02/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E9%81%8D%E6%96%87%E7%AB%A0/"/>
     <id>http://example.com/2021/12/02/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E9%81%8D%E6%96%87%E7%AB%A0/</id>
     <published>2021-12-02T11:03:38.000Z</published>
-    <updated>2021-12-04T13:28:24.493Z</updated>
+    <updated>2021-12-15T04:26:05.022Z</updated>
     
-    <content type="html"><![CDATA[<p>大家下午好</p><hr><p>第一次写博客，也是第一次做这个博客，一开始是在B站搜索了一下，后面也是选择了hexo这个框架，这种看起来搭建起来方便，也有完整教程可以来学习，更主要看到自己喜欢的主题可以使用。<br>第一次搭建这个hexo框架的时候，总是会出现错误，因为一开始那个教学视频是使用mac电脑，window的很多步骤也有所不同，比如管理员权限什么的。还有一个错误是git没有安装，搭建hexo框架，需要node.js和git的支持，这很重要，以及安装淘宝的镜像。</p><hr>]]></content>
+    <content type="html"><![CDATA[<div class="alert alert-danger"><p>本站还在搭建中</p></div><blockquote><p>简单的介绍下 本站的搭建得益于在B站上<a href="https://www.bilibili.com/video/BV1Yb411a7ty?from=search&seid=1129304310147963544&spm_id_from=333.337.0.0">CodeSheep</a>的教学视频 以及本站的站点主题作者 <a href="https://github.com/Candinya">Candinya</a>🍭 编写的使用指南 —— <a href="https://candinya.com/posts/Kratos-Rebirth-Manual/"> Kratos-Rebirth食用说明 | 糖菓·部落 </a> </p></blockquote><div class="alert alert-success"><p>下面介绍下HEXO框架</p></div><h1 id="HEXO"><a href="#HEXO" class="headerlink" title="HEXO"></a><a href="https://hexo.io/zh-cn/">HEXO</a></h1><p>This site was built using <a href="https://pages.github.com/">GitHub Pages</a>.</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;大家下午好&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;第一次写博客，也是第一次做这个博客，一开始是在B站搜索了一下，后面也是选择了hexo这个框架，这种看起来搭建起来方便，也有完整教程可以来学习，更主要看到自己喜欢的主题可以使用。&lt;br&gt;第一次搭建这个hexo框架的时候，总是会出现错误，因为</summary>
+    <summary type="html">&lt;div class=&quot;alert alert-danger&quot;&gt;&lt;p&gt;本站还在搭建中&lt;/p&gt;
+&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;简单的介绍下 本站的搭建得益于在B站上&lt;a href=&quot;https://www.bilibili.com/video/BV1Yb411a7t</summary>
       
     
     
     
+    <category term="站点记录" scheme="http://example.com/categories/%E7%AB%99%E7%82%B9%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="站点记录" scheme="http://example.com/tags/%E7%AB%99%E7%82%B9%E8%AE%B0%E5%BD%95/"/>
     
   </entry>
   
